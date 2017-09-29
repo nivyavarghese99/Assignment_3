@@ -6,7 +6,7 @@ public interface CalcInterface {
 	public int mult(int e, int f);
 	public double div(int m, int n);
 	//public void setIntObj(CalcInterface mockObj);
-	public void setDoubleObj(CalcInterface mockObj);
+	//public void setDoubleObj(CalcInterface mockObj);
 	//public double div(double m, double n);
 	
 
